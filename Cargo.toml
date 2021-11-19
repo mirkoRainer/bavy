@@ -9,3 +9,4 @@ description = "This package may become something, or it may remain nothing. Bavy
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+tracing = "0.1"
